@@ -5,4 +5,4 @@ tests-examples/
 /tests-examples/
 /playwright-report/
 /blob-report/
-/playwright/.cache/
+/playwright/.cache/.DS_Store
